@@ -63,6 +63,7 @@ public class FtcOpModeRegister implements OpModeRegister {
     manager.register("First", First.class);
     manager.register("encoderTest1", encoderTest1.class);
     manager.register("theMostBasicStuff", theMostBasicStuff.class);
+    manager.register("MagneticSensor", MagneticSensor.class);
 
 
   }
